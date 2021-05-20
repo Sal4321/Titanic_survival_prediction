@@ -15,4 +15,6 @@ I got around 80% accuracy on unseen test set using the model with all features.
 
 More works on improving the model will be done in future by including baging/boosting algorithms
 
-The trained models are included as .pkl_
+The trained models are included as .pkl
+
+
